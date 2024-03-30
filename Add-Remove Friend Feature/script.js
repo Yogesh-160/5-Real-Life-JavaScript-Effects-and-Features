@@ -2,9 +2,6 @@ let stats = document.querySelector("h5")
 
 let add = document.querySelector("#add");
 
-
-click = 0;
-
 add.addEventListener("click",function(){
   
     stats.innerHTML = "Friends"
@@ -12,9 +9,6 @@ add.addEventListener("click",function(){
     add.style.backgroundColor = "#4287f5"
     // stats.style.backgroundColor = "#eeeee4"
     remove.style.backgroundColor = '#e3d6d5';
-    
-    
-    
 })
 
 remove.addEventListener("click",function(){
@@ -23,8 +17,4 @@ remove.addEventListener("click",function(){
     stats.style.backgroundColor = "#ffff"
     remove.style.backgroundColor = "#dadada"
     add.style.backgroundColor = 'cadetblue'
-
-   
-    
-    
 })
