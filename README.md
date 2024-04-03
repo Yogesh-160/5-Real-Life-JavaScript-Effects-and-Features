@@ -13,3 +13,8 @@ https://github.com/Yogesh-160/5-Real-Life-JavaScript-Effects-and-Features/assets
 <b>Insta Love Heart Feature</b>👇🏻
 
 https://github.com/Yogesh-160/5-Real-Life-JavaScript-Effects-and-Features/assets/124399567/b0c8ade3-97ab-4082-a5ae-144b095f04db
+
+<b>Custom Cursor</b>
+
+https://github.com/Yogesh-160/5-Real-Life-JavaScript-Effects-and-Features/assets/124399567/6306205e-a131-4d96-80f6-53dee45014da
+
